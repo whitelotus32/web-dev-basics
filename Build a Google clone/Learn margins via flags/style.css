@@ -7,6 +7,7 @@ body {
     height: 100px;
     /*Challenge:
     Add 100px of margin on the bottom of the red box. */
+    margin-bottom: 100px;
     
 }
 
