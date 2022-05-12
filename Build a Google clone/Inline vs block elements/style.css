@@ -3,10 +3,15 @@ Challenge:
 Turn the elements into blocks!
 */
 
+/* Display inline will put things next to each other
+Display block will stack things ontop of each other */
+
 img {
+    display: block;
     width: 300px;
 }
 
 input {
+    display: block;
     width: 400px;
 }
