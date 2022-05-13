@@ -1,0 +1,8 @@
+/* Challenge: Center the img
+    1. display: block
+    2. Must have a width
+    3. margin left/right: auto */
+
+img {
+    width: 200px;
+}
