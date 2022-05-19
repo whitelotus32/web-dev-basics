@@ -13,6 +13,9 @@
     align-items:
     start, center, end
     */
+    display: flex;
+    justify-content: start;
+    align-items: center;
 }
 
 .item {
