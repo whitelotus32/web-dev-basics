@@ -16,6 +16,26 @@ h1, h2, h3, h4, p {
     margin-bottom: 10px;
 }
 
+/*
+Challenge:
+Make the bday elements look like the
+provided design slide.
+*/
+
+#bday-age {
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#bday-date {
+    margin: 0;
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
 h2, h4 {
     background: #EFB0C9;
 }
